@@ -29,7 +29,7 @@ details such as age, gender, annual income, and spending score.
 
 ### 1️⃣ Clone the Repository
 
-    git clone https://github.com/your-username/customer-segmentation.git
+    git clone https://github.com/Hrutik0555/PRODIGY_ML_02.git
     cd customer-segmentation
 
 ### 2️⃣ Install Dependencies
